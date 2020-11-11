@@ -1,4 +1,4 @@
-;This recursive function swaps the first and the last element of a list
+;This function swaps the first and the last element of a list
 (defun swapfl
     (l)
     (appendelement
